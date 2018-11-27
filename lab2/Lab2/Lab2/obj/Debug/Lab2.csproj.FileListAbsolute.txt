@@ -1,7 +1,0 @@
-D:\projects\mrk-labs\lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
-D:\projects\mrk-labs\lab2\Lab2\Lab2\bin\Debug\Lab2.exe
-D:\projects\mrk-labs\lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
-D:\projects\mrk-labs\lab2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
-D:\projects\mrk-labs\lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
-D:\projects\mrk-labs\lab2\Lab2\Lab2\obj\Debug\Lab2.exe
-D:\projects\mrk-labs\lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
